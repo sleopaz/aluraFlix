@@ -74,7 +74,7 @@ function Footer() {
       <FooterText className="text">
         Challenge Alura.
         <br />
-        Desarrollado por Daniel Cuello
+        Desarrollado por Esteban Paz 
         <br />
         2024
       </FooterText>
